@@ -1,0 +1,15 @@
+[submodule "team_01_fe"]
+	path = team_01_fe
+	url = https://github.com/SleepNFocus/frontend.git
+[submodule "team_01_be"]
+	path = team_01_be
+	url = https://github.com/SleepNFocus/backend.git
+[submodule "team_02_fe"]
+	path = team_02_fe
+	url = https://github.com/09OndaProject/OndaFront.git
+[submodule "team_03_fe"]
+	path = team_03_fe
+	url = https://github.com/LocalStoryMap/Oz_Frontend.git
+[submodule "team_03_be"]
+	path = team_03_be
+	url = https://github.com/LocalStoryMap/Oz_Backand.git
