@@ -13,3 +13,6 @@
 [submodule "team_03_be"]
 	path = team_03_be
 	url = https://github.com/LocalStoryMap/Oz_Backand.git
+[submodule "team_02_be"]
+	path = team_02_be
+	url = https://github.com/09OndaProject/OndaBack.git
